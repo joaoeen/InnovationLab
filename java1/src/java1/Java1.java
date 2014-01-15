@@ -13,6 +13,7 @@ public class Java1 {
 				System.out.printf("The answer is correct.");
 		else
 				System.out.printf("The answer is wrong.");
+		input.close();
 	}
 
 }
