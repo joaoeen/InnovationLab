@@ -14,6 +14,7 @@ public class Java1 {
 		else
 				System.out.printf("The answer is wrong.");
 		input.close();
+		//commit test
 	}
 
 }
